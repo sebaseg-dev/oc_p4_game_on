@@ -35,7 +35,7 @@ This project focuses on practicing **JavaScript form validation with regular exp
 | ![Home page desktop](./assets/homepage_1440x1024.png) | ![Modal form desktop](./assets/modal_1440x1024.png) | ![Confirmation page desktop](./assets/confirmation_1440x1024.png) |
 | ![Home page mobile](./assets/homepage_390x844.png)    | ![Modal form mobile](./assets/modal_390x844.png)    | ![Confirmation page mobile](./assets/confirmation_390x844.png)    |
 
-🔗 [Live preview](https://sedomu.github.io/oc_p4_gameon/)
+🔗 [Live preview](https://sedomu.github.io/GameOn-website-FR/)
 
 ---
 
