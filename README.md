@@ -35,7 +35,7 @@ This project focuses on practicing **JavaScript form validation with regular exp
 | ![Home page desktop](./assets/homepage_1440x1024.png) | ![Modal form desktop](./assets/modal_1440x1024.png) | ![Confirmation page desktop](./assets/confirmation_1440x1024.png) |
 | ![Home page mobile](./assets/homepage_390x844.png)    | ![Modal form mobile](./assets/modal_390x844.png)    | ![Confirmation page mobile](./assets/confirmation_390x844.png)    |
 
-🔗 [Live preview](https://sedomu.github.io/GameOn-website-FR/)
+🔗 [Live preview](https://sebaseg-dev.github.io/oc_p4_game_on/)
 
 ---
 
@@ -115,3 +115,7 @@ Not applicable – no build tools or package managers are needed for this projec
 ## ⚠️ Disclaimer
 
 This project was created as part of the OpenClassrooms curriculum. **It is not intended for production use.** Some implementations (e.g., accessibility, performance optimization, authentication) were intentionally simplified to **focus on JavaScript form validation.**
+
+---
+
+> Renamed the default branch from master to `main` to align with modern industry standards for inclusive terminology.
